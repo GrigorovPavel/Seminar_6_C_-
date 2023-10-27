@@ -31,7 +31,7 @@ void PriintArray(int[] arr)
 // [1 2 3 4 5] -> [5 4 3 2 1]
 // [6 7 3 6] -> [6 3 7 6]
 
-void ReversArray(int[] arr)
+void ReversArray(int[] arr)  // Метод разворота одномерного Массива
 {
     for (int i = 0; i < arr.Length  / 2; i++)
     {
@@ -41,12 +41,13 @@ void ReversArray(int[] arr)
     }
 }
 
-
-
 int[] array = CreateArrayRndInt(5, 1, 9); 
 //Console.Write("["); 
 PriintArray(array);
 //Console.WriteLine("]");
 
 ReversArray(array);
+PriintArray(array);
+
+Array.Reverse(array);  // Встроеный Метод разварота Массива.
 PriintArray(array);
