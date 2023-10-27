@@ -1,0 +1,15 @@
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.csproj.AssemblyReference.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.AssemblyInfoInputs.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.AssemblyInfo.cs
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\bin\Debug\net6.0\Task45.exe
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\bin\Debug\net6.0\Task45.deps.json
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\bin\Debug\net6.0\Task45.runtimeconfig.json
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\bin\Debug\net6.0\Task45.dll
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\bin\Debug\net6.0\Task45.pdb
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.dll
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\refint\Task45.dll
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.pdb
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\Task45.genruntimeconfig.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_6 C#\Task45\obj\Debug\net6.0\ref\Task45.dll
