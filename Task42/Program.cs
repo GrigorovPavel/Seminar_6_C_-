@@ -5,6 +5,7 @@
 // 13 -> 1101
 // 2 -> 10
 
+
 int ConvertDecemalToBinary(int num)
 {
     int res = 0;
@@ -19,8 +20,23 @@ int ConvertDecemalToBinary(int num)
 
 }
 
+string ConvertDecemalToBinaryStr(int num) // Метод решения через строку(string)
+{
+    string res = string.Empty;
+    while (num > 0)
+    {
+        res = num % 2 + res; 
+        num = num / 2;
+    }
+    return res;
+
+}
+
 Console.WriteLine("Введите число:");
 int number = Convert.ToInt32(Console.ReadLine());
 
 int result = ConvertDecemalToBinary(number);
 Console.WriteLine(result);
+
+string resultStr = ConvertDecemalToBinaryStr(number);
+Console.WriteLine(resultStr);
